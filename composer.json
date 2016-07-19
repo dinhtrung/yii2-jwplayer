@@ -23,7 +23,7 @@
     "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/jwplayer": "~7.5"
+        "bower-asset/jwplayer-official": "~7.5"
     },
     "autoload": {
         "psr-4": {
