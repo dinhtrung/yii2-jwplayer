@@ -11,9 +11,9 @@ use yii\web\AssetBundle;
 
 class JWPlayerAsset extends AssetBundle
 {
-    public $sourcePath = '@yii/jwplayer/assets';
+    public $sourcePath = '@bower/jwplayer';
     public $js = ['jwplayer.js'];
     public $depends=[
         'yii\web\JqueryAsset'
     ];
-} 
+}
